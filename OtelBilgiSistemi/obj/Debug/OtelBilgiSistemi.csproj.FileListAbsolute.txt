@@ -1,0 +1,109 @@
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Form1.resources
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\source\repos\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteri.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYönetici.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriOtelİşlemleri.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormGiriş.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FSADAS.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormGiriş.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteri.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriOtelİşlemleri.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYönetici.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FSADAS.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.CoreCompileInputs.cache
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+E:\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormGiriş.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteri.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriOtelİşlemleri.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriYorum.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYönetici.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FSADAS.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+C:\Users\Beyza\Desktop\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriPuanlama.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriYorum.resources
+C:\Users\Berke\Desktop\proje\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriPuanlama.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormGiriş.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteri.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriOtelİşlemleri.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriYorum.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriPuanlama.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYönetici.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiOtelEkleGüncelle.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiPersonelEkleGüncelle.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Veri yapıları\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiPersonelİşlemleri.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormGiriş.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteri.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriOtelİşlemleri.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriYorum.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriPuanlama.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYönetici.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiOtelEkleGüncelle.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiPersonelEkleGüncelle.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiPersonelİşlemleri.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Berke\Desktop\GÖNDERİLECEK PROJE\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe.config
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.exe
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\bin\Debug\OtelBilgiSistemi.pdb
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csprojAssemblyReference.cache
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormGiriş.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteri.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriOtelİşlemleri.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriYorum.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormMüşteriPuanlama.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYönetici.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiOtelEkleGüncelle.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiPersonelEkleGüncelle.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.FormYöneticiPersonelİşlemleri.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.Properties.Resources.resources
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.exe
+C:\Users\Bunyamin\Desktop\C Files\dosylar\dosylar\OtelBilgiSistemi\OtelBilgiSistemi\obj\Debug\OtelBilgiSistemi.pdb
